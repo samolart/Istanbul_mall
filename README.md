@@ -35,7 +35,8 @@ Lastly, the busiest shopping months in Istanbul were July, October, and March, w
 - [Key Takeaways for New Entrants](#key-takeaways-for-new-entrants)
 
 
-### Objective
+### Objective 
+---
 The objective of this project is to analyze shopping trends across 10 major malls in Istanbul from 2021 to 2023. By examining key factors such as sales revenue, product preferences, payment methods, customer demographics, and seasonal shopping patterns, the goal is to provide valuable insights that will assist potential investors and businesses in making informed decisions about entering Istanbul’s retail market. The analysis aims to guide new entrants in selecting the best locations, optimizing product offerings, targeting the right customer demographics, and planning for peak shopping periods.
 
 
